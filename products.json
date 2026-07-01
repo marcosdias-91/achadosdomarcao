@@ -1,0 +1,257 @@
+[
+  {
+    "id": "pedal-duplo-done-dp20",
+    "title": "Pedal Duplo D-One DP20 Double Chain Drive",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/1mHLNW9",
+    "category": "Pedais",
+    "tags": [
+      "Custo-benefício",
+      "Bumbo duplo",
+      "Estudo"
+    ],
+    "image": "assets/products/pedal-duplo-done-dp20.webp",
+    "description": "Pedal duplo com corrente dupla, indicado para quem quer começar ou evoluir nos estudos de bumbo duplo, grooves pesados e viradas com mais presença.",
+    "reason": "Uma opção interessante para entrar no mundo do pedal duplo sem investir logo de cara em equipamentos muito caros."
+  },
+  {
+    "id": "pedal-bumbo-done-dp1000",
+    "title": "Pedal de Bumbo D-One DP1000 Cromado",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/2sSqYqS",
+    "category": "Pedais",
+    "tags": [
+      "Custo-benefício",
+      "Estudo",
+      "Setup inicial"
+    ],
+    "image": "assets/products/pedal-bumbo-done-dp1000.webp",
+    "description": "Pedal simples de bumbo com visual cromado, indicado para estudar, tocar em casa, montar setup inicial ou substituir um pedal básico.",
+    "reason": "Boa opção para quem está começando na bateria e quer um pedal funcional sem gastar muito."
+  },
+  {
+    "id": "microfone-vokal-sv80x",
+    "title": "Microfone Condensador XLR Vokal SV80X",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/2VwTuT2",
+    "category": "Áudio e gravação",
+    "tags": [
+      "Podcast",
+      "Lives",
+      "Gravação"
+    ],
+    "image": "assets/products/microfone-vokal-sv80x.webp",
+    "description": "Microfone condensador XLR indicado para gravações, lives, podcasts, aulas online e produção de conteúdo com mais qualidade de áudio.",
+    "reason": "Boa opção para melhorar o som de vídeos, aulas, podcasts e conteúdos musicais."
+  },
+  {
+    "id": "interface-teyun-q24",
+    "title": "Interface de Áudio Teyun Q-24 24 Bits, 2 Canais",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/2nurtN8",
+    "category": "Áudio e gravação",
+    "tags": [
+      "Home studio",
+      "Phantom power",
+      "Lives"
+    ],
+    "image": "assets/products/interface-teyun-q24.webp",
+    "description": "Interface de áudio USB com 2 canais, entrada para microfone/instrumento e phantom power 48V, indicada para gravações, lives, podcasts e aulas online.",
+    "reason": "Interessante para montar um setup inicial de gravação com microfone XLR e melhorar o áudio dos conteúdos."
+  },
+  {
+    "id": "headphone-basike-ba-fon192",
+    "title": "Headphone Basike BA-FON192 Bluetooth Over-ear com ANC",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/2pHRRpb",
+    "category": "Fones e retorno",
+    "tags": [
+      "Conforto",
+      "Bluetooth",
+      "Uso diário"
+    ],
+    "image": "assets/products/headphone-basike-ba-fon192.webp",
+    "description": "Headphone Bluetooth over-ear com cancelamento de ruído ativo, microfone integrado e até 36 horas de bateria.",
+    "reason": "Boa opção para estudo, música, edição de vídeos, aulas e trabalho com mais concentração."
+  },
+  {
+    "id": "microfone-lapela-kaidi-kmf1-ac",
+    "title": "Microfone Lapela Kaidi KMF1-AC Premium",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/2yKUvWU",
+    "category": "Áudio e gravação",
+    "tags": [
+      "Reels",
+      "Vídeos",
+      "Aulas online"
+    ],
+    "image": "assets/products/microfone-lapela-kaidi-kmf1-ac.webp",
+    "description": "Microfone de lapela sem fio indicado para gravar vídeos, reels, aulas, bastidores e apresentações com áudio mais limpo direto no celular.",
+    "reason": "Ajuda muito quem grava conteúdo sozinho e precisa melhorar o áudio sem depender do microfone do celular."
+  },
+  {
+    "id": "baquetas-spanking-5b-marfim",
+    "title": "Par de Baquetas Spanking 5B Marfim Lisa",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/1PVkQM5",
+    "category": "Baquetas",
+    "tags": [
+      "Essencial",
+      "Estudo",
+      "Palco"
+    ],
+    "image": "assets/products/baquetas-spanking-5b-marfim.webp",
+    "description": "Par de baquetas 5B com ponta de madeira, indicado para estudo, ensaio e uso no dia a dia.",
+    "reason": "Boa para quem prefere uma baqueta com mais corpo na mão e mais presença para tocar rock, pop, worship e sertanejo."
+  },
+  {
+    "id": "fone-kz-zsn-pro",
+    "title": "Fone In-ear KZ ZSN Pro Retorno de Palco",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/1BN1nKG",
+    "category": "Fones e retorno",
+    "tags": [
+      "Retorno de palco",
+      "Custo-benefício",
+      "Click"
+    ],
+    "image": "assets/products/fone-kz-zsn-pro.webp",
+    "description": "Fone in-ear indicado para retorno de palco, ensaios, estudos, gravações e uso com click ou metrônomo.",
+    "reason": "Ajuda bateristas e músicos a ouvirem melhor a banda, backing track ou guia durante a performance."
+  },
+  {
+    "id": "bateria-roland-td07dmk",
+    "title": "Bateria Eletrônica Roland TD-07DMK V-Drums",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/1J8kSs3",
+    "category": "Baterias eletrônicas",
+    "tags": [
+      "Premium",
+      "Estudo em casa",
+      "Marca referência"
+    ],
+    "image": "assets/products/bateria-roland-td07dmk.webp",
+    "description": "Bateria eletrônica Roland da linha V-Drums, indicada para estudo em casa, prática silenciosa, gravações e aulas online.",
+    "reason": "Excelente para estudar com qualidade sem depender de uma bateria acústica o tempo todo."
+  },
+  {
+    "id": "bateria-yamaha-dtx6k3x",
+    "title": "Bateria Eletrônica Yamaha DTX6K3-X com Módulo DTX Pro",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/2yR9qSH",
+    "category": "Baterias eletrônicas",
+    "tags": [
+      "Premium",
+      "Estudo avançado",
+      "Longo prazo"
+    ],
+    "image": "assets/products/bateria-yamaha-dtx6k3x.webp",
+    "description": "Bateria eletrônica Yamaha com módulo DTX Pro, indicada para estudo avançado, gravação, prática silenciosa e performance.",
+    "reason": "Ideal para quem quer investir em um equipamento de longo prazo com bons timbres e estrutura mais completa."
+  },
+  {
+    "id": "yamaha-ead10",
+    "title": "Módulo Yamaha EAD10 com Interface USB para Gravação",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/2JB5DaY",
+    "category": "Áudio e gravação",
+    "tags": [
+      "Premium",
+      "Gravar bateria",
+      "Conteúdo musical"
+    ],
+    "image": "assets/products/yamaha-ead10.webp",
+    "description": "Módulo Yamaha voltado para captação, gravação e processamento de bateria acústica, com interface USB.",
+    "reason": "Produto muito interessante para transformar a bateria acústica em conteúdo de qualidade com praticidade."
+  },
+  {
+    "id": "banco-nux-ndt3",
+    "title": "Banco de Bateria Profissional Tipo Motocicleta Nux NDT3",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/2ffJkMe",
+    "category": "Bancos e acessórios",
+    "tags": [
+      "Conforto",
+      "Postura",
+      "Essencial"
+    ],
+    "image": "assets/products/banco-nux-ndt3.webp",
+    "description": "Banco profissional tipo motocicleta, indicado para mais conforto, estabilidade e postura correta durante estudos, ensaios e apresentações.",
+    "reason": "Um bom banco muda muito a experiência de tocar. Conforto e estabilidade não são luxo para quem toca por muito tempo."
+  },
+  {
+    "id": "amplificador-santo-angelo-af1",
+    "title": "Amplificador de Fone AF1 Santo Angelo",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/2ohZ8KE",
+    "category": "Fones e retorno",
+    "tags": [
+      "Retorno individual",
+      "Palco",
+      "Ensaio"
+    ],
+    "image": "assets/products/amplificador-santo-angelo-af1.webp",
+    "description": "Amplificador de fone individual, indicado para músicos que precisam controlar melhor o volume do retorno.",
+    "reason": "Acessório simples, mas que faz diferença no palco, no estúdio e nos estudos com retorno in-ear."
+  },
+  {
+    "id": "amplificador-vedo-p2",
+    "title": "Amplificador de Fone Vedo P2 XLR / 3,5mm",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/1kt3Hq9",
+    "category": "Fones e retorno",
+    "tags": [
+      "Custo-benefício",
+      "Click",
+      "Retorno individual"
+    ],
+    "image": "assets/products/amplificador-vedo-p2.webp",
+    "description": "Amplificador de fone individual com conexão XLR e saída P2/3,5mm, indicado para retorno in-ear em ensaios, igrejas, palcos e gravações.",
+    "reason": "Alternativa acessível para controlar o retorno no fone em situações com click, guia, playback ou retorno da banda."
+  },
+  {
+    "id": "set-pratos-orion-solopro",
+    "title": "Set de Pratos Orion Solo Pro SP101 12/14/16/20 com Bag",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/1TPNXUg",
+    "category": "Pratos",
+    "tags": [
+      "Set completo",
+      "Custo-benefício",
+      "Setup inicial"
+    ],
+    "image": "assets/products/set-pratos-orion-solopro.webp",
+    "description": "Set com splash 12”, hi-hat 14”, crash 16”, ride 20” e bag, indicado para montar ou completar o setup da bateria.",
+    "reason": "Ajuda quem está montando o primeiro setup ou quer uma alternativa prática para estudo, ensaio e apresentações."
+  },
+  {
+    "id": "set-pratos-stagg-sh",
+    "title": "Set de Pratos Stagg SH H14 C16 R20 com Bag",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/33ZR1DV",
+    "category": "Pratos",
+    "tags": [
+      "Set completo",
+      "Intermediário",
+      "Palco"
+    ],
+    "image": "assets/products/set-pratos-stagg-sh.webp",
+    "description": "Set com hi-hat 14”, crash 16”, ride 20” e bag, indicado para quem quer montar um setup completo com uma linha mais consistente.",
+    "reason": "Boa alternativa para quem já toca em banda, igreja, bares ou eventos e precisa de um set mais organizado."
+  },
+  {
+    "id": "kit-pratos-sabian-b8x",
+    "title": "Kit de Pratos Sabian B8X 14HH / 16CR / 18TCR / 20RD",
+    "store": "Mercado Livre",
+    "link": "https://meli.la/1EpbcHn",
+    "category": "Pratos",
+    "tags": [
+      "Premium",
+      "Set completo",
+      "Palco e gravação"
+    ],
+    "image": "assets/products/kit-pratos-sabian-b8x.webp",
+    "description": "Kit com hi-hat 14”, crash 16”, thin crash 18” e ride 20”, indicado para quem quer um set completo com marca reconhecida.",
+    "reason": "Excelente para sair dos pratos básicos e ter um setup mais confiável para ensaios, igrejas, bares, gravações e apresentações."
+  }
+]
