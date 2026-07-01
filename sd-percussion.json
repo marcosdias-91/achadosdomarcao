@@ -1,0 +1,114 @@
+[
+  {
+    "id": "sd-dirty-clap-12",
+    "title": "Dirty Clap / Clapstack Dirty 12”",
+    "store": "SD Percussion",
+    "category": "Clap stacks",
+    "tags": [
+      "Endorser",
+      "Som seco",
+      "12 polegadas"
+    ],
+    "image": "assets/sd-percussion/sd-dirty-clap-12.webp",
+    "description": "Clap stack de 12 polegadas com som seco, rápido e marcante, ideal para adicionar ataque, textura e personalidade ao setup.",
+    "reason": "Funciona muito bem em grooves, viradas, breaks e momentos de destaque, entregando aquele efeito moderno que chama atenção."
+  },
+  {
+    "id": "sd-pad-estudo-12",
+    "title": "Pad de Estudo SD Percussion 12”",
+    "store": "SD Percussion",
+    "category": "Pads de estudo",
+    "tags": [
+      "Técnica",
+      "Rudimentos",
+      "Aquecimento"
+    ],
+    "image": "assets/sd-percussion/sd-pad-estudo-12.webp",
+    "description": "Pad de estudo de 12 polegadas para praticar rudimentos, controle de mãos, coordenação e aquecimento sem montar a bateria completa.",
+    "reason": "Item obrigatório para bateristas. Ajuda a manter a técnica em dia e o tamanho de 12” oferece uma área confortável para estudo."
+  },
+  {
+    "id": "sd-clapstack-16",
+    "title": "Clapstack SD Percussion 16”",
+    "store": "SD Percussion",
+    "category": "Clap stacks",
+    "tags": [
+      "16 polegadas",
+      "Mais corpo",
+      "Efeito"
+    ],
+    "image": "assets/sd-percussion/sd-clapstack-16.webp",
+    "description": "Clapstack de 16 polegadas com visual preto/prata e som de efeito marcante para adicionar textura e presença ao setup.",
+    "reason": "Por ser maior, entrega mais corpo e presença. Ótimo para grooves modernos, acentos, viradas e assinatura sonora própria."
+  },
+  {
+    "id": "sd-clapstack-14",
+    "title": "Clapstack SD Percussion 14”",
+    "store": "SD Percussion",
+    "category": "Clap stacks",
+    "tags": [
+      "14 polegadas",
+      "Versátil",
+      "Ataque seco"
+    ],
+    "image": "assets/sd-percussion/sd-clapstack-14.webp",
+    "description": "Clapstack de 14 polegadas com resposta rápida, ataque seco e visual moderno para efeitos percussivos sem perder musicalidade.",
+    "reason": "Fica no meio-termo entre o som curto do 12” e a presença do 16”, sendo muito versátil para levadas modernas."
+  },
+  {
+    "id": "sd-stack-slim",
+    "title": "Stack Slim SD Percussion",
+    "store": "SD Percussion",
+    "category": "Stacks",
+    "tags": [
+      "Compacto",
+      "Corte preciso",
+      "Moderno"
+    ],
+    "image": "assets/sd-percussion/sd-stack-slim.webp",
+    "description": "Stack Slim com construção compacta e resposta rápida, ideal para efeitos secos, cortes precisos e timbres modernos.",
+    "reason": "Perfeito para acentos, grooves, viradas e momentos em que você quer um som curto, agressivo e diferente dos pratos tradicionais."
+  },
+  {
+    "id": "sd-tajon-master",
+    "title": "Tajon Master SD Percussion",
+    "store": "SD Percussion",
+    "category": "Percussão",
+    "tags": [
+      "Criativo",
+      "Acústico",
+      "Híbrido"
+    ],
+    "image": "assets/sd-percussion/sd-tajon-master.webp",
+    "description": "Instrumento percussivo com corpo em madeira e tambores acoplados, pensado para grooves acústicos, levadas criativas e performances com identidade.",
+    "reason": "Combina pegada percussiva, visual diferenciado e possibilidades de timbre para apresentações acústicas, vídeos e setups alternativos."
+  },
+  {
+    "id": "sd-cajon-peruano",
+    "title": "Cajon Peruano SD Percussion",
+    "store": "SD Percussion",
+    "category": "Cajons",
+    "tags": [
+      "Acústico",
+      "Versátil",
+      "Kit promocional"
+    ],
+    "image": "assets/sd-percussion/sd-cajon-peruano.webp",
+    "description": "Cajon peruano ideal para apresentações acústicas, estudos, igrejas, rodas musicais e setups compactos.",
+    "reason": "Muito versátil para acompanhar voz e violão, tocar em ambientes menores, gravar acústicos e criar levadas com pegada orgânica."
+  },
+  {
+    "id": "sd-cajon-gibao-d8",
+    "title": "Cajon Gibão D8 SD Percussion",
+    "store": "SD Percussion",
+    "category": "Cajons",
+    "tags": [
+      "Peso pesado",
+      "Grave presente",
+      "Robusto"
+    ],
+    "image": "assets/sd-percussion/sd-cajon-gibao-d8.webp",
+    "description": "Modelo robusto com proposta de som encorpado, grave presente e pegada forte para apresentações acústicas, igrejas e rodas musicais.",
+    "reason": "Boa opção para quem busca um cajon com mais peso sonoro e presença, sem perder a praticidade de um instrumento compacto."
+  }
+]
